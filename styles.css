@@ -1,0 +1,51 @@
+
+.naglowek
+{
+    background-color:silver;
+    height: 50px;
+    text-align:center;
+}
+.lbok 
+{
+    background-color:aqua;
+    height: 600px;
+    width: 30%;
+    float: left;
+}
+main 
+{
+    background-color:green;
+    height: 600px;
+    width: 40%;
+    float: left;
+}
+.pbok 
+{
+    background-color:teal;
+    height:600px;
+    width:30%;
+    float:left;
+}
+footer 
+{
+    background-color:green;
+    clear: both;
+}
+img
+{
+    float:left;
+    width:50%;
+    height:50%;
+}
+li
+{
+    font-size:1.5em;
+}
+h1
+{
+    font-size:1.5em;
+}
+h2
+{
+    font-size:1.5em;
+}
